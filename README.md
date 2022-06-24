@@ -7,7 +7,7 @@ This will also work for **emojis**. <br/>
 ###### How to Run? <br/>
 >Install necessary packages
 >Create an account of twilio and from your number you will get a number from twilio which will be like *+1 (415) 523-8886*, Save this number in your device in any name. <br/>
->you will also get a text code, sent it to this number on whatsapp, to activate your bot.
+>You will also get a text code, sent it to this number on whatsapp, to activate your bot.
 >Run the python project by using command **python app.py** <br/>
 >Use **ngrok** to give a universal link to your local host, to do this check below steps: <br/>
 >Step1: Goto cmd, and Goto the folder where ngrok is installed. <br/>
